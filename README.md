@@ -1,5 +1,7 @@
 **Inventory Management App
-Overview**
+
+    **Overview**
+
 The Inventory Management App is a full-stack application built using React Native for the frontend and Express.jswith MongoDB for the backend. This app allows users to manage inventory items, including adding, editing, deleting, filtering by category, and sorting by quantity.
 
 **Features**
